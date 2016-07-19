@@ -12,3 +12,5 @@
     * [诊断](chapter2/section2.2.md)
     * [药理](chapter2/section2.3.md)
     * [预防](chapter2/section2.4.md)
+    * [心理](chapter2/section2.5.md)
+    * [遗传](chapter2/section2.6.md)
