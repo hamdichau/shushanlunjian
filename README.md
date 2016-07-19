@@ -15,7 +15,7 @@
 
 
 
-
+**This work is inspired by CDMG and STZ**
 
 ![CC](http://7xw7uc.com1.z0.glb.clouddn.com/7eb178f18f2c7d1d16ae8ac5999ebff3.png)  
 **This work is licensed under a [CC A-S 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).**
