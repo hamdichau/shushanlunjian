@@ -10,5 +10,5 @@
 * [大四](chapter2/README.md)
     * [流病](chapter2/section2.1.md)
     * [诊断](chapter2/section2.2.md)
-    * [药理](chapter1/section2.3.md)
-
+    * [药理](chapter2/section2.3.md)
+    * [预防](chapter2/section2.4.md)
