@@ -40,6 +40,7 @@
 - Esstial fatty acids  
 - Chemical asphyxiants gases  
 - Coal macules  
+
 ### 问答  
 - biogeochemical disease的特征  
 - PM的健康效应影响因素  
@@ -58,6 +59,7 @@
 - Trans FA  
 - Work-related disease  
 - Vibration white finger  
+
 ### 简答（七八分一道）  
 - Describe the features of biogeochemical disease  
 - Illustrate epidemic characteristics of water-borne communicational disease  
@@ -123,6 +125,7 @@
 - food fortification  
 - work-related disease  
 - vibration white finger  
+
 ### 简答  
 - Process of nutrition assessing.  
 - Catogories of air pollution and features.  
@@ -190,7 +193,8 @@ e.exosphere
 - RNI(RDA)  
 - Kwashiorkor  
 - Occupational disease  
-- Silicosis  
+- Silicosis
+
 ### 问答：    
 - Major source of atmospheric pollution and its features.  
 - The mechanism of CO poisoning  
@@ -326,6 +330,7 @@ e.disorder of bone
 - soil  
 - raynaud’s disease  
 - primary preventive  
+  
 ### 简答题  
 - briefly describe the function of dietary protein?  
 - how can we prevent and control IDD?  
