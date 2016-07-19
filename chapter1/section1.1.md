@@ -4,7 +4,7 @@
 - 胚泡  
 - 血气屏障  
 - 赫令体  
--（少一个，记不起了）  
+- （少一个，记不起了）  
 
 ### 简答题  
 - compare the different structures of lymph nodes between thymus  
