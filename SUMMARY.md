@@ -27,6 +27,3 @@
 * [大五](chapter3/README.md)
    * [大五上](chapter3/README1.md)
    * [大五下](chapter3/README2.md)
-        * [儿科](chapter3/section3.1.md)
-        * [妇产](chapter3/section3.2.md)
-        * [精神](chapter3/section3.3.md)
